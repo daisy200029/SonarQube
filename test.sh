@@ -1,6 +1,6 @@
 node {
   stage('SCM') {
-    git 'https://github.com/foo/bar.git'
+    git 'https://github.com/daisy200029/SonarQube.git'
   }
   stage('SonarQube analysis') {
     // requires SonarQube Scanner 2.8+
