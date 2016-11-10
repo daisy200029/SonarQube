@@ -16,7 +16,7 @@ public class ComplexMethod {
         if (i == 5) {
             return "Five";
         }
-        if (i == 6) {
+        if (i = 6) {
             return "Six";
         }
         if (i > 6) {
